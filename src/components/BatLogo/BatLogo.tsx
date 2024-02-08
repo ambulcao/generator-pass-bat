@@ -1,6 +1,6 @@
 import React from 'react';
 import batLogo from '../../../assets/bat-logo.png'
-import { BatStyle } from '../BatLogo/style'
+import { BatStyle } from '../BatLogo/Style'
 
 import {
   Text,

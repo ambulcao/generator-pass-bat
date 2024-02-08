@@ -17,6 +17,12 @@ const HomeStyles = StyleSheet.create({
     paddingTop: 20,
     paddingBottom: 10,
     backgroundColor: '#4D4D4D'
+  },
+  inputContainer: {
+    width: '100%',
+    flexDirection: 'column',
+    alignItems: 'center',
+    
   }
 });
 
