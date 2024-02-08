@@ -5,10 +5,18 @@
 
   <!-- project name -->
   <h1 align="center">Bat Password Generator</h1>
-  
-  <!-- project badges -->
-  <p align="center">
- 
+ <!--
+   <img 
+      alt="Project programing languages count" 
+      src="https://img.shields.io/github/languages/count/felipeAguiarCode/node-js-bulk-downloader?color=6A57D5"
+    >
+ -->
+  <!--
+    <img 
+      alt="Last commit on GitHub" 
+      src="https://img.shields.io/github/last-commit/felipeAguiarCode/node-js-bulk-downloader?color=6A57D5"
+    >
+  -->
     <img 
       alt="Made by Alexandre Bulcão" 
       src="https://img.shields.io/badge/made%20by-Felipe%20Aguiar-%20?color=6A57D5"
