@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-      <img src=".github/assets/badge.png" width="200" />
+      <img src="./assets/badge.png" width="200" />
   </a>
 
   <!-- project name -->
@@ -8,20 +8,9 @@
   
   <!-- project badges -->
   <p align="center">
- <!--
-   <img 
-      alt="Project programing languages count" 
-      src="https://img.shields.io/github/languages/count/felipeAguiarCode/node-js-bulk-downloader?color=6A57D5"
-    >
- -->
-  <!--
+ 
     <img 
-      alt="Last commit on GitHub" 
-      src="https://img.shields.io/github/last-commit/felipeAguiarCode/node-js-bulk-downloader?color=6A57D5"
-    >
-  -->
-    <img 
-      alt="Made by Felipe Aguiar" 
+      alt="Made by Alexandre Bulcão" 
       src="https://img.shields.io/badge/made%20by-Felipe%20Aguiar-%20?color=6A57D5"
     >
     <img 
@@ -49,12 +38,12 @@
     <br />
     <br />
     <a 
-      href="https://github.com/felipeAguiarCode/react-native-bat-pass-generator/issues">
+      href="https://github.com/ambulcao/generator-pass-bat/issues">
       Report Bug
     </a>
     ·
     <a 
-      href="https://github.com/felipeAguiarCode/react-native-bat-pass-generator/issues/new">
+      href="https://github.com/ambulcao/generator-pass-bat/issues/new">
       Request Feature
     </a>
   </p>
@@ -64,7 +53,7 @@
 
 <div align="center">
   <a href="#">
-      <img src=".github/assets/preview.png" width="200" alt="preview" />
+      <img src="./assets/preview.png" width="200" alt="preview" />
   </a>
 </div>
 
@@ -86,7 +75,7 @@ This project was developed with the following technologies:
 You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
 
 ```bash
-git clone https://github.com/felipeAguiarCode/react-native-bat-pass-generator.git
+git clone https://github.com/ambulcao/generator-pass-bat.git
 $ cd react-native-bat-pass-generator
 $ npm install
 $ npm run start
